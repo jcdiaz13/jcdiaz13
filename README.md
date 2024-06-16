@@ -9,7 +9,7 @@ Soy un desarrollador apasionado. Me encanta aprender nuevas tecnologías y mejor
 
 💬 Pregúntame sobre JavaScript, React, Java, y Spring Boot.
 
-⚡ Dato curioso: Soy un apasionado de la tecnología, videojuegos y cultura asiática.
+⚡ Dato curioso: Soy un apasionado de la tecnología, videojuegos y cultura japonesa.
 
 🛠️ Habilidades y Tecnologías
 Lenguajes de Programación: JavaScript y Java.
