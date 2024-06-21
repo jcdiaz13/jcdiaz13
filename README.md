@@ -7,8 +7,6 @@ Soy un desarrollador apasionado. Me encanta aprender nuevas tecnologías y mejor
 
 👯 Estoy buscando oportunidades de empleo como desarrollador.
 
-💬 Pregúntame sobre JavaScript, React, Java, y Spring Boot.
-
 ⚡ Dato curioso: Soy un apasionado de la tecnología, videojuegos y cultura japonesa.
 
 🛠️ Habilidades y Tecnologías
